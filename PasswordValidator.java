@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class PasswordValidator {
 
-    private static String currentUsername = "johndoe";
-    private static String currentPassword = "ABC_1234";
+    private static String currentUsername = "muhydeen";
+    private static String currentPassword = "AZ.98734";
 
     public static void main(String[] args) {
         printPasswordRules();
